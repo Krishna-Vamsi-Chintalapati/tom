@@ -15,5 +15,5 @@ This bot performs following operations:
   * **Find meaning for a word:** Given an english word, the bot gives the meaning of the word
 
 **Youtube Link:**
-    https://youtu.be/ByEUV93jaso
+    https://www.youtube.com/watch?v=7teCKHFFrLIa
     
